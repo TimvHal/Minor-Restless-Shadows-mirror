@@ -1,0 +1,790 @@
+fileFormatVersion: 2
+guid: 0ec16106b62b1484e814ff71fbc01130
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4200289747723193744
+    second: Door North Idle (1)_0
+  - first:
+      213: 7332838296332193340
+    second: Door North Idle (1)_1
+  - first:
+      213: 4817912179580663549
+    second: Door North Idle (1)_2
+  - first:
+      213: 5761224397817873522
+    second: Door North Idle (1)_3
+  - first:
+      213: -7967187898598174729
+    second: Door North Idle (1)_4
+  - first:
+      213: 8162226424990998567
+    second: Door North Idle (1)_5
+  - first:
+      213: -5104951275419226017
+    second: Door North Idle (1)_6
+  - first:
+      213: -1317773025784591785
+    second: Door North Idle (1)_7
+  - first:
+      213: -4366926683550132280
+    second: Door North Idle (1)_8
+  - first:
+      213: -3941230529268906572
+    second: Door North Idle (1)_9
+  - first:
+      213: -7482242189793798419
+    second: Door North Idle (1)_10
+  - first:
+      213: 4240274418397163110
+    second: Door North Idle (1)_11
+  - first:
+      213: 7341942968543603187
+    second: Door North Idle (1)_12
+  - first:
+      213: 1389781662873518658
+    second: Door North Idle (1)_13
+  - first:
+      213: -5867641950779058900
+    second: Door North Idle (1)_14
+  - first:
+      213: 5934110356575728006
+    second: Door North Idle (1)_15
+  - first:
+      213: 4095018128715159788
+    second: Door North Idle (1)_16
+  - first:
+      213: -1424451364482972919
+    second: Door North Idle (1)_17
+  - first:
+      213: -7048241035995054858
+    second: Door North Idle (1)_18
+  - first:
+      213: 4486452707046881898
+    second: Door North Idle (1)_19
+  - first:
+      213: 3105757043107845324
+    second: Door North Idle (1)_20
+  - first:
+      213: 5708046447154073577
+    second: Door North Idle (1)_21
+  - first:
+      213: 3131087167177721329
+    second: Door North Idle (1)_22
+  - first:
+      213: -7369891603057409342
+    second: Door North Idle (1)_23
+  - first:
+      213: -8120627488197232442
+    second: Door North Idle (1)_24
+  - first:
+      213: 2311513093778534152
+    second: Door North Idle (1)_25
+  - first:
+      213: -3370929711048682800
+    second: Door North Idle (1)_26
+  - first:
+      213: -6715981064928087824
+    second: Door North Idle (1)_27
+  - first:
+      213: -4226486122085009163
+    second: Door North Idle (1)_28
+  - first:
+      213: -1759937811837745718
+    second: Door North Idle (1)_29
+  - first:
+      213: 7759758929539942438
+    second: Door North Idle (1)_30
+  - first:
+      213: -3783717917806580005
+    second: Door North Idle (1)_31
+  - first:
+      213: -2489395907002265746
+    second: Door North Idle (1)_32
+  - first:
+      213: -109983829879287501
+    second: Door North Idle (1)_33
+  - first:
+      213: -4172821452199063895
+    second: Door North Idle (1)_34
+  - first:
+      213: -2509664549871339050
+    second: Door North Idle (1)_35
+  - first:
+      213: 9008679291957206506
+    second: Door North Idle (1)_36
+  - first:
+      213: -3301282228624492885
+    second: Door North Idle (1)_37
+  - first:
+      213: -2206702412761728526
+    second: Door North Idle (1)_38
+  - first:
+      213: -7754167310926646138
+    second: Door North Idle (1)_39
+  - first:
+      213: -2674136467550467468
+    second: Door North Idle (1)_40
+  - first:
+      213: -9116946818935348987
+    second: Door North Idle (1)_41
+  - first:
+      213: 5843506519498320509
+    second: Door North Idle (1)_42
+  - first:
+      213: 1040705954965266110
+    second: Door North Idle (1)_43
+  - first:
+      213: 5126910683043335221
+    second: Door North Idle (1)_44
+  - first:
+      213: -2865990717723024591
+    second: Door North Idle (1)_45
+  - first:
+      213: 2666045497784902067
+    second: Door North Idle (1)_46
+  - first:
+      213: 4638101939295837130
+    second: Door North Idle (1)_47
+  - first:
+      213: 8071452946044616230
+    second: Door North Idle (1)_48
+  - first:
+      213: 7934790191062960531
+    second: Door North Idle (1)_49
+  - first:
+      213: -6076964431728878218
+    second: Door North Idle (1)_50
+  - first:
+      213: 2006659922775053933
+    second: Door North Idle (1)_51
+  - first:
+      213: 6142002182107058285
+    second: Door North Idle (1)_52
+  - first:
+      213: -8301721631758953945
+    second: Door North Idle (1)_53
+  - first:
+      213: -674358475093663140
+    second: Door North Idle (1)_54
+  - first:
+      213: -5646777684645229546
+    second: Door North Idle (1)_55
+  - first:
+      213: 4649760116531069191
+    second: Door North Idle (1)_56
+  - first:
+      213: 4905300354350851186
+    second: Door North Idle (1)_57
+  - first:
+      213: 7478399574714204653
+    second: Door North Idle (1)_58
+  - first:
+      213: -2871235189320373798
+    second: Door North Idle (1)_59
+  - first:
+      213: 7744537050011599254
+    second: Door North Idle (1)_60
+  - first:
+      213: 990887108907196830
+    second: Door North Idle (1)_61
+  - first:
+      213: -2416912729188247938
+    second: Door North Idle (1)_62
+  - first:
+      213: -1789469448248150278
+    second: Door North Idle (1)_63
+  - first:
+      213: 8991810402756337751
+    second: Door North Idle (1)_64
+  - first:
+      213: -2857078758223947958
+    second: Door North Idle (1)_65
+  - first:
+      213: 5699679547278577534
+    second: Door North Idle (1)_66
+  - first:
+      213: 5694409357826400711
+    second: Door North Idle (1)_67
+  - first:
+      213: -2866889748330852773
+    second: Door North Idle (1)_68
+  - first:
+      213: -6491642077518633351
+    second: Door North Idle (1)_69
+  - first:
+      213: -5679003387854342688
+    second: Door North Idle (1)_70
+  - first:
+      213: -6428085845288644657
+    second: Door North Idle (1)_71
+  - first:
+      213: 7491137821315511883
+    second: Door North Idle (1)_72
+  - first:
+      213: -6654804538934032874
+    second: Door North Idle (1)_73
+  - first:
+      213: 5585768190050720554
+    second: Door North Idle (1)_74
+  - first:
+      213: 2306636843917586378
+    second: Door North Idle (1)_75
+  - first:
+      213: 7779488019051839463
+    second: Door North Idle (1)_76
+  - first:
+      213: -1247797647444781332
+    second: Door North Idle (1)_77
+  - first:
+      213: -9212222465141482453
+    second: Door North Idle (1)_78
+  - first:
+      213: 6425375131960900634
+    second: Door North Idle (1)_79
+  - first:
+      213: 7558546962444078890
+    second: Door North Idle (1)_80
+  - first:
+      213: 5564279790185912243
+    second: Door North Idle (1)_81
+  - first:
+      213: -2933958527677995212
+    second: Door North Idle (1)_82
+  - first:
+      213: 8931601670619226325
+    second: Door North Idle (1)_83
+  - first:
+      213: -898073044795991589
+    second: Door North Idle (1)_84
+  - first:
+      213: -3251493947199769484
+    second: Door North Idle (1)_85
+  - first:
+      213: 3205143248934405343
+    second: Door North Idle (1)_86
+  - first:
+      213: 5128117304218273739
+    second: Door North Idle (1)_87
+  - first:
+      213: 3952539995623367909
+    second: Door North Idle (1)_88
+  - first:
+      213: 3753704373432954730
+    second: Door North Idle (1)_89
+  - first:
+      213: 2822340572920836763
+    second: Door North Idle (1)_90
+  - first:
+      213: -7592040300346634582
+    second: Door North Idle (1)_91
+  - first:
+      213: 1507610653492302901
+    second: Door North Idle (1)_92
+  - first:
+      213: -425466446611760466
+    second: Door North Idle (1)_93
+  - first:
+      213: -3283794423359524235
+    second: Door North Idle (1)_94
+  - first:
+      213: 3929715166085838776
+    second: Door North Idle (1)_95
+  - first:
+      213: -2718843240695632124
+    second: Door North Idle (1)_96
+  - first:
+      213: 8809798878146868491
+    second: Door North Idle (1)_97
+  - first:
+      213: 5269442534586860349
+    second: Door North Idle (1)_98
+  - first:
+      213: 7428076771350403587
+    second: Door North Idle (1)_99
+  - first:
+      213: -4168367356246576219
+    second: Door North Idle (1)_100
+  - first:
+      213: 3869229643610480227
+    second: Door North Idle (1)_101
+  - first:
+      213: 7940569579447649642
+    second: Door North Idle (1)_102
+  - first:
+      213: -7853704237178873069
+    second: Door North Idle (1)_103
+  - first:
+      213: -7123102732155649231
+    second: Door North Idle (1)_104
+  - first:
+      213: 6045983458119215816
+    second: Door North Idle (1)_105
+  - first:
+      213: -5073822416823292096
+    second: Door North Idle (1)_106
+  - first:
+      213: 2430760499264226341
+    second: Door North Idle (1)_107
+  - first:
+      213: -41528429679434725
+    second: Door North Idle (1)_108
+  - first:
+      213: 6862679342505272587
+    second: Door North Idle (1)_109
+  - first:
+      213: -1058720074682485553
+    second: Door North Idle (1)_110
+  - first:
+      213: 1293202591597547237
+    second: Door North Idle (1)_111
+  - first:
+      213: 5536371445540452492
+    second: Door North Idle (1)_112
+  - first:
+      213: 4536683594699897070
+    second: Door North Idle (1)_113
+  - first:
+      213: 1541424528842065824
+    second: Door North Idle (1)_114
+  - first:
+      213: 4811282654145678289
+    second: Door North Idle (1)_115
+  - first:
+      213: -3717912499847774779
+    second: Door North Idle (1)_116
+  - first:
+      213: 945789271366013580
+    second: Door North Idle (1)_117
+  - first:
+      213: 5708509265492711999
+    second: Door North Idle (1)_118
+  - first:
+      213: 6380305519021909004
+    second: Door North Idle (1)_119
+  - first:
+      213: -8665734816520865224
+    second: Door North Idle (1)_120
+  - first:
+      213: -513803516531375790
+    second: Door North Idle (1)_121
+  - first:
+      213: -7242392762720352861
+    second: Door North Idle (1)_122
+  - first:
+      213: -4640412140981540588
+    second: Door North Idle (1)_123
+  - first:
+      213: -8462859200960379858
+    second: Door North Idle (1)_124
+  - first:
+      213: 2410441752657240578
+    second: Door North Idle (1)_125
+  - first:
+      213: 153364081558635420
+    second: Door North Idle (1)_126
+  - first:
+      213: 1273070461096007802
+    second: Door North Idle (1)_127
+  - first:
+      213: -1057912895880503046
+    second: Door North Idle (1)_128
+  - first:
+      213: 1811545312491803734
+    second: Door North Idle (1)_129
+  - first:
+      213: -6147171499666138689
+    second: Door North Idle (1)_130
+  - first:
+      213: 5221894450518228791
+    second: Door North Idle (1)_131
+  - first:
+      213: 1333279464658442103
+    second: Door North Idle (1)_132
+  - first:
+      213: -6239347916659540754
+    second: Door North Idle (1)_133
+  - first:
+      213: 8699645188141065813
+    second: Door North Idle (1)_134
+  - first:
+      213: 8677343999064639925
+    second: Door North Idle (1)_135
+  - first:
+      213: -4452501160500358292
+    second: Door North Idle (1)_136
+  - first:
+      213: 257583006296031566
+    second: Door North Idle (1)_137
+  - first:
+      213: -1002199731996129654
+    second: Door North Idle (1)_138
+  - first:
+      213: 3491896559257833043
+    second: Door North Idle (1)_139
+  - first:
+      213: -2756864475705091766
+    second: Door North Idle (1)_140
+  - first:
+      213: -7288326772861340114
+    second: Door North Idle (1)_141
+  - first:
+      213: -4081014019779776693
+    second: Door North Idle (1)_142
+  - first:
+      213: -6057758735419299118
+    second: Door North Idle (1)_143
+  - first:
+      213: -1649517867571022222
+    second: Door North Idle (1)_144
+  - first:
+      213: 806650452174279606
+    second: Door North Idle (1)_145
+  - first:
+      213: -4283372216650014714
+    second: Door North Idle (1)_146
+  - first:
+      213: 380342963215414021
+    second: Door North Idle (1)_147
+  - first:
+      213: 929377345848623944
+    second: Door North Idle (1)_148
+  - first:
+      213: -3468928554178472050
+    second: Door North Idle (1)_149
+  - first:
+      213: -1022728512487606500
+    second: Door North Idle (1)_150
+  - first:
+      213: 3672053539652631762
+    second: Door North Idle (1)_151
+  - first:
+      213: -5495214313278550714
+    second: Door North Idle (1)_152
+  - first:
+      213: -7060034246422656119
+    second: Door North Idle (1)_153
+  - first:
+      213: 4292781185219410239
+    second: Door North Idle (1)_154
+  - first:
+      213: 2348663704035191105
+    second: Door North Idle (1)_155
+  - first:
+      213: -1347679666157781941
+    second: Door North Idle (1)_156
+  - first:
+      213: -5722735103671280183
+    second: Door North Idle (1)_157
+  - first:
+      213: -171475878137248714
+    second: Door North Idle (1)_158
+  - first:
+      213: -7319242337584877528
+    second: Door North Idle (1)_159
+  - first:
+      213: 5609060364763728278
+    second: Door North Idle (1)_160
+  - first:
+      213: 7017789973656569154
+    second: Door North Idle (1)_161
+  - first:
+      213: 1916088312251079398
+    second: Door North Idle (1)_162
+  - first:
+      213: -5450401755446271364
+    second: Door North Idle (1)_163
+  - first:
+      213: -2192466480878723716
+    second: Door North Idle (1)_164
+  - first:
+      213: 8803319108980817316
+    second: Door North Idle (1)_165
+  - first:
+      213: 1162747526208062392
+    second: Door North Idle (1)_166
+  - first:
+      213: 5300839575287973906
+    second: Door North Idle (1)_167
+  - first:
+      213: -2243868856055572015
+    second: Door North Idle (1)_168
+  - first:
+      213: 7941742845053318082
+    second: Door North Idle (1)_169
+  - first:
+      213: 3524332130792650153
+    second: Door North Idle (1)_170
+  - first:
+      213: -6158911779901224245
+    second: Door North Idle (1)_171
+  - first:
+      213: 3031331178183397077
+    second: Door North Idle (1)_172
+  - first:
+      213: -251643743354506496
+    second: Door North Idle (1)_173
+  - first:
+      213: 2093419068360254975
+    second: Door North Idle (1)_174
+  - first:
+      213: 523397666362386301
+    second: Door North Idle (1)_175
+  - first:
+      213: -67728838037415169
+    second: Door North Idle (1)_176
+  - first:
+      213: -1579717830810159144
+    second: Door North Idle (1)_177
+  - first:
+      213: 6066694654088865916
+    second: Door North Idle (1)_178
+  - first:
+      213: -5371010071119965095
+    second: Door North Idle (1)_179
+  - first:
+      213: -3814431877007357270
+    second: Door North Idle (1)_180
+  - first:
+      213: -2129324945360314655
+    second: Door North Idle (1)_181
+  - first:
+      213: -6099229826330081159
+    second: Door North Idle (1)_182
+  - first:
+      213: 6388848070693857175
+    second: Door North Idle (1)_183
+  - first:
+      213: 6671436825818682524
+    second: Door North Idle (1)_184
+  - first:
+      213: -2707039220804220138
+    second: Door North Idle (1)_185
+  - first:
+      213: -8726435344121996776
+    second: Door North Idle (1)_186
+  - first:
+      213: 2844899716965699435
+    second: Door North Idle (1)_187
+  - first:
+      213: 118711270059417367
+    second: Door North Idle (1)_188
+  - first:
+      213: -149174238015554557
+    second: Door North Idle (1)_189
+  - first:
+      213: 6481216134487860281
+    second: Door North Idle (1)_190
+  - first:
+      213: 6265125856260018126
+    second: Door North Idle (1)_191
+  - first:
+      213: -8857534405074010162
+    second: Door North Idle (1)_192
+  - first:
+      213: -2695877111004646236
+    second: Door North Idle (1)_193
+  - first:
+      213: 8002876953670798797
+    second: Door North Idle (1)_194
+  - first:
+      213: 5347393892521649451
+    second: Door North Idle (1)_195
+  - first:
+      213: 8424552326873151050
+    second: Door North Idle (1)_196
+  - first:
+      213: -2801594886642059014
+    second: Door North Idle (1)_197
+  - first:
+      213: 6165912423038560737
+    second: Door North Idle (1)_198
+  - first:
+      213: 4899471712168019978
+    second: Door North Idle (1)_199
+  - first:
+      213: 3199640503459787710
+    second: Door North Idle (1)_200
+  - first:
+      213: 8526402884722366532
+    second: Door North Idle (1)_201
+  - first:
+      213: -8240321122129995928
+    second: Door North Idle (1)_202
+  - first:
+      213: -8059913983792188272
+    second: Door North Idle (1)_203
+  - first:
+      213: -4768741256593227357
+    second: Door North Idle (1)_204
+  - first:
+      213: -7663288854237910029
+    second: Door North Idle (1)_205
+  - first:
+      213: -3019039061698561467
+    second: Door North Idle (1)_206
+  - first:
+      213: 3764592943051696256
+    second: Door North Idle (1)_207
+  - first:
+      213: 3543406745172518985
+    second: Door North Idle (1)_208
+  - first:
+      213: -766787515083240050
+    second: Door North Idle (1)_209
+  - first:
+      213: 7009522254032232876
+    second: Door North Idle (1)_210
+  - first:
+      213: -6452338638788467409
+    second: Door North Idle (1)_211
+  - first:
+      213: 5288370642196617582
+    second: Door North Idle (1)_212
+  - first:
+      213: 7260806281898629033
+    second: Door North Idle (1)_213
+  - first:
+      213: -5444615327008361693
+    second: Door North Idle (1)_214
+  - first:
+      213: 477098046661088107
+    second: Door North Idle (1)_215
+  - first:
+      213: 7956717663300290856
+    second: Door North Idle (1)_216
+  - first:
+      213: -4946661127434702297
+    second: Door North Idle (1)_217
+  - first:
+      213: -7966384283269874237
+    second: Door North Idle (1)_218
+  - first:
+      213: 4367927538081213981
+    second: Door North Idle (1)_219
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3188259180267222181
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3188259180267222183}
+  - component: {fileID: 3188259180267222180}
+  m_Layer: 0
+  m_Name: GameAssets
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3188259180267222183
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3188259180267222181}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.9090292, y: 3.318559, z: -49.75259}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3188259180267222180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3188259180267222181}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95394197fadefb945b7ce7d3c77fce19, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  score: 0
+  SoundAudioClips:
+  - Sound: 0
+    AudioClip: {fileID: 8300000, guid: 0ef5497507abd5a43bad0c938bf7a0d0, type: 3}
+  - Sound: 1
+    AudioClip: {fileID: 8300000, guid: 81556286220c5434fbbf2bb6a272c924, type: 3}
+  - Sound: 2
+    AudioClip: {fileID: 8300000, guid: 71b6ab5ad5c747745a93eab78753b120, type: 3}
+  - Sound: 3
+    AudioClip: {fileID: 8300000, guid: a2d5c167ad2ff7344b6a166b9079786e, type: 3}
+  - Sound: 4
+    AudioClip: {fileID: 8300000, guid: f02ecd0e7deb3974eb7d1d8c72ffed20, type: 3}
+  - Sound: 5
+    AudioClip: {fileID: 8300000, guid: e34bb1717d11d85469b0095231028e00, type: 3}
+  - Sound: 6
+    AudioClip: {fileID: 8300000, guid: b664878444e504c4fb76caa6aa038d22, type: 3}
+  - Sound: 7
+    AudioClip: {fileID: 8300000, guid: 1ea906ad1d285ef4291ad7fbdb292e96, type: 3}
+  - Sound: 8
+    AudioClip: {fileID: 8300000, guid: 86571f0ee3d03f04993450d9f65ad494, type: 3}
+  - Sound: 9
+    AudioClip: {fileID: 8300000, guid: 2eb86e545a55b194eb95a6d98d3c4d7d, type: 3}
+  - Sound: 10
+    AudioClip: {fileID: 8300000, guid: 39aef87b22feb604d8f5ca0f1cf82984, type: 3}
+  - Sound: 12
+    AudioClip: {fileID: 8300000, guid: d7c7d2f6f9308f74ca4af31b2a6711b7, type: 3}
+  - Sound: 13
+    AudioClip: {fileID: 8300000, guid: c542eea97a5fb994d809c0009c830c84, type: 3}
+  - Sound: 14
+    AudioClip: {fileID: 8300000, guid: 2135918d83797dd419dbaa6374539c39, type: 3}
+  - Sound: 15
+    AudioClip: {fileID: 8300000, guid: 15bdf7f6c55cd3b4ba246bdc26870a8f, type: 3}
+  - Sound: 16
+    AudioClip: {fileID: 8300000, guid: 907a0cbfe7d75b04ab37ef5256a4de6f, type: 3}
+  - Sound: 17
+    AudioClip: {fileID: 8300000, guid: bf63f5944cc287c418b68528dfcb97ed, type: 3}
+  - Sound: 18
+    AudioClip: {fileID: 8300000, guid: 37759e43ac34c564ead9654c1caec601, type: 3}
+  - Sound: 19
+    AudioClip: {fileID: 8300000, guid: 0addb3ea21161f041b01a3c9379659c7, type: 3}
+  - Sound: 20
+    AudioClip: {fileID: 8300000, guid: 223d11ba054d8874ca191a2d305d6628, type: 3}
+  - Sound: 21
+    AudioClip: {fileID: 8300000, guid: 2c78a48689991d647bd6cfd72e2473c8, type: 3}
+  - Sound: 22
+    AudioClip: {fileID: 8300000, guid: 38106659dc39f8e4bb0a3037620ca120, type: 3}
+  - Sound: 24
+    AudioClip: {fileID: 8300000, guid: a99d48865cae7ad418707ae0bd1aa4fe, type: 3}
+  - Sound: 23
+    AudioClip: {fileID: 8300000, guid: fb3a3538592ec894a9379fccc21698bd, type: 3}
+  - Sound: 25
+    AudioClip: {fileID: 8300000, guid: 6fcbebdc19df17a40ac3f1689c3dfc74, type: 3}
+  - Sound: 27
+    AudioClip: {fileID: 8300000, guid: 81cc7970b7d1bb845920f742d8863761, type: 3}
+  - Sound: 28
+    AudioClip: {fileID: 8300000, guid: 4de37f8e0a87d5348bc6536c718d6aa1, type: 3}
+  - Sound: 26
+    AudioClip: {fileID: 8300000, guid: df74085eb450d0341bf9ac228d7de4b3, type: 3}
+  BuffStats:
+  - type: 0
+    currentValue: 15
+    maxValue: 30
+    increaseBy: 5
+    description: Increases clip size with.. magic?
+  - type: 1
+    currentValue: 3
+    maxValue: 3
+    increaseBy: 1
+    description: Creates extra imaginary darts when shot
+  - type: 2
+    currentValue: 3
+    maxValue: 3
+    increaseBy: 0.5
+    description: Adds a little silver to the darts
+  - type: 3
+    currentValue: 3
+    maxValue: 9
+    increaseBy: 1
+    description: Makes your bullet aerodynamic, with wings
+  - type: 4
+    currentValue: 1
+    maxValue: 2
+    increaseBy: 0.5
+    description: Extra large foam casing
+  - type: 5
+    currentValue: 6
+    maxValue: 6
+    increaseBy: 1.5
+    description: Adds more speed with springs.. dont ask
+  - type: 6
+    currentValue: 6
+    maxValue: 20
+    increaseBy: 2
+    description: Eat your veggies
+  - type: 7
+    currentValue: 5
+    maxValue: 7
+    increaseBy: 1
+    description: You are speed
+  - type: 8
+    currentValue: 1
+    maxValue: 4
+    increaseBy: 1
+    description: Increases battery life, why is this here?
+  BuffSprites:
+  - type: 0
+    sprite: {fileID: 21300000, guid: 0ff849bca0706ca49b5c6a1ccf124483, type: 3}
+  - type: 1
+    sprite: {fileID: 21300000, guid: fcd866c840abc764eb80eb06c0a4d1df, type: 3}
+  - type: 2
+    sprite: {fileID: 21300000, guid: 407963abedd28704fb9d05240837c4bf, type: 3}
+  - type: 3
+    sprite: {fileID: 21300000, guid: 39790bbc7ecac0b42a63c9664b1d95ee, type: 3}
+  - type: 4
+    sprite: {fileID: 21300000, guid: 1fbfddcb22aaa8749884476d82a21215, type: 3}
+  - type: 5
+    sprite: {fileID: 21300000, guid: 8480d024570210a4e8375ec7c4a0fbb8, type: 3}
+  - type: 6
+    sprite: {fileID: 21300000, guid: d40ff3bab50d33347908ff046e12c4c6, type: 3}
+  - type: 7
+    sprite: {fileID: 21300000, guid: fb83ccc120b57d34188489eed118618b, type: 3}
+  - type: 8
+    sprite: {fileID: 21300000, guid: 588fbfc49bd4cff4b81bc4430e65dc21, type: 3}
+  Cheatses:
+  - cheat: 0
+    active: 1
+  MusicVolume: 0.1
+  SFXVolume: 0

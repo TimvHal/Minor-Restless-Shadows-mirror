@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Plaga
+  - AcidBullet
+  - Snowball
+  - BossHealthBar
+  - HealthRepresentation
   layers:
   - Default
   - TransparentFX
@@ -13,19 +18,19 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - bullet
+  - enemy
+  - gun
+  - player
+  - ground
+  - playerfeet
+  - door
+  - plaga
+  - acid
+  - bouncyball
+  - cardboard
+  - jugglingpin
+  - pickup
   - 
   - 
   - 
@@ -40,4 +45,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Misc
+    uniqueID: 560453773
+    locked: 0
+  - name: UI
+    uniqueID: 1533059077
+    locked: 0
+  - name: Enemies
+    uniqueID: 2826670903
+    locked: 0
+  - name: ClearedRoom
+    uniqueID: 3098840513
+    locked: 0
+  - name: Transition
+    uniqueID: 2116037
     locked: 0

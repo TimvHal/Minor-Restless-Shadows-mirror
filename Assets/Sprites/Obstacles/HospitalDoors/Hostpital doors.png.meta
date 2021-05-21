@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: baecfc68f6f21f7419dfaa0b070b899b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3658886376680291820
+    second: Hostpital doors_0
+  - first:
+      213: -2695700509717914497
+    second: Hostpital doors_1
+  - first:
+      213: -352667219990114320
+    second: Hostpital doors_2
+  - first:
+      213: 1278047405979768749
+    second: Hostpital doors_3
+  - first:
+      213: -9146772043617548424
+    second: Hostpital doors_4
+  - first:
+      213: 4689364061968983064
+    second: Hostpital doors_5
+  - first:
+      213: -45091423710137846
+    second: Hostpital doors_6
+  - first:
+      213: -3014366047294490055
+    second: Hostpital doors_7
+  - first:
+      213: 3282335897654348726
+    second: Hostpital doors_8
+  - first:
+      213: -1115991391833134090
+    second: Hostpital doors_9
+  - first:
+      213: -2019066500290987613
+    second: Hostpital doors_10
+  - first:
+      213: 1360780543830714166
+    second: Hostpital doors_11
+  - first:
+      213: 6338909676975038067
+    second: Hostpital doors_12
+  - first:
+      213: -3515597291181568718
+    second: Hostpital doors_13
+  - first:
+      213: -8758732563767276157
+    second: Hostpital doors_14
+  - first:
+      213: -4884343996878384273
+    second: Hostpital doors_15
+  - first:
+      213: -5251344941748014931
+    second: Hostpital doors_16
+  - first:
+      213: -1583855943120929442
+    second: Hostpital doors_17
+  - first:
+      213: -2070751920342203740
+    second: Hostpital doors_18
+  - first:
+      213: -296759174286782545
+    second: Hostpital doors_19
+  - first:
+      213: -819987284364284913
+    second: Hostpital doors_20
+  - first:
+      213: 7727123523382261417
+    second: Hostpital doors_21
+  - first:
+      213: -7968275886901676923
+    second: Hostpital doors_22
+  - first:
+      213: 2085575290387119469
+    second: Hostpital doors_23
+  - first:
+      213: -6308041990128392184
+    second: Hostpital doors_24
+  - first:
+      213: -3467017744663384260
+    second: Hostpital doors_25
+  - first:
+      213: -10350572762225823
+    second: Hostpital doors_26
+  - first:
+      213: 2978345174164195289
+    second: Hostpital doors_27
+  - first:
+      213: 5107738630691168215
+    second: Hostpital doors_28
+  - first:
+      213: 4765042420562934675
+    second: Hostpital doors_29
+  - first:
+      213: 6409700003664414839
+    second: Hostpital doors_30
+  - first:
+      213: 7804846421164363599
+    second: Hostpital doors_31
+  - first:
+      213: -5957110489017988892
+    second: Hostpital doors_32
+  - first:
+      213: -4446856184824852406
+    second: Hostpital doors_33
+  - first:
+      213: -452956912930344007
+    second: Hostpital doors_34
+  - first:
+      213: 3151256771847465640
+    second: Hostpital doors_35
+  - first:
+      213: -8116967450083976012
+    second: Hostpital doors_36
+  - first:
+      213: 2118670326457041133
+    second: Hostpital doors_37
+  - first:
+      213: -1183967281750421002
+    second: Hostpital doors_38
+  - first:
+      213: 1856941922178823533
+    second: Hostpital doors_39
+  - first:
+      213: 2112115515121989783
+    second: Hostpital doors_40
+  - first:
+      213: 7176400122886024281
+    second: Hostpital doors_41
+  - first:
+      213: 8426529328046333882
+    second: Hostpital doors_42
+  - first:
+      213: 6452926537488388930
+    second: Hostpital doors_43
+  - first:
+      213: -6285619976912319578
+    second: Hostpital doors_44
+  - first:
+      213: -5485207233865875559
+    second: Hostpital doors_45
+  - first:
+      213: 4338160420623543537
+    second: Hostpital doors_46
+  - first:
+      213: -6010808010244351553
+    second: Hostpital doors_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hostpital doors_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412847cd936093dc0800000000000000
+      internalID: -3658886376680291820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hostpital doors_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c9c693ba2f69ad0800000000000000
+      internalID: -2695700509717914497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hostpital doors_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff809c28031b1bf0800000000000000
+      internalID: -352667219990114320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hostpital doors_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7988728598cb110800000000000000
+      internalID: 1278047405979768749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hostpital doors_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877c3bab943201180800000000000000
+      internalID: -9146772043617548424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hostpital doors_5
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814e420e4c7f31140800000000000000
+      internalID: 4689364061968983064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
